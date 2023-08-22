@@ -2,7 +2,7 @@
 
 **`IMS Student`**
 
-<h3> On an exciting journey through the world of technology and coding. </h3>
+<h5> On an exciting journey through the world of technology and coding. </h5>
 
 ---
 
