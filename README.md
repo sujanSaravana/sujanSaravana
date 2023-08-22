@@ -2,6 +2,7 @@
 
 **`IMS Student`**
 
+On an exciting journey through the world of technology and coding.
 ---
 
 ### Languages and Tools
